@@ -1,8 +1,9 @@
-### Potential Google Problems
+## Potential Google Problems
 
 
-#### Markdown Checkbox
+### Markdown Checkbox
 Create Box - ctrl + shft + c
+
 Toggle Box - ctrl + shft + enter
 
 * [X] ~~*1. Median of Two Sorted Arrays*~~ [2022-03-11] 
