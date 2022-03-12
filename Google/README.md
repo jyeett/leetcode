@@ -9,7 +9,7 @@ Toggle Box - ctrl + shft + enter
 
 * [X] ~~*1. Median of Two Sorted Arrays*~~ [2022-03-11] 
 * [ ] 2. Regular Expression Matching
-* [ ] 3. Letter Combinations of a Phone Number
+* [X] ~~*3. Letter Combinations of a Phone Number*~~ [2022-03-11]
 * [ ] 4. Valid Parentheses
 * [ ] 5. Generate Parentheses
 * [ ] 6. Merge k Sorted Lists
