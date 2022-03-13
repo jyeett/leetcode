@@ -8,7 +8,7 @@ Create Box - ctrl + shft + c
 Toggle Box - ctrl + shft + enter
 
 * [X] ~~*1. Median of Two Sorted Arrays*~~ [2022-03-11] 
-* [ ] 2. Regular Expression Matching
+* [X] ~~*2. Regular Expression Matching*~~ [2022-03-13]
 * [X] ~~*3. Letter Combinations of a Phone Number*~~ [2022-03-11]
 * [ ] 4. Valid Parentheses
 * [ ] 5. Generate Parentheses
