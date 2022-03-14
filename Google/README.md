@@ -14,7 +14,7 @@ Toggle Box - ctrl + shft + enter
 * [ ] 5. Generate Parentheses
 * [ ] 6. Merge k Sorted Lists
 * [ ] 7. Next Permutation
-* [ ] 8. Trapping Rain Water
+* [X] ~~*8. Trapping Rain Water*~~ [2022-03-13]
 * [ ] 9. Wildcard Matching
 * [ ] 10. Pow(x, n)
 * [ ] 11. Spiral Matrix
