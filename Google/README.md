@@ -16,7 +16,7 @@ Toggle Box - ctrl + shft + enter
 * [ ] 7. Next Permutation
 * [X] ~~*8. Trapping Rain Water*~~ [2022-03-13]
 * [ ] 9. Wildcard Matching
-* [ ] 10. Pow(x, n)
+* [X] ~~*10. Pow(x, n)*~~ [2022-03-13]
 * [ ] 11. Spiral Matrix
 * [ ] 12. Merge Intervals
 * [ ] 13. Insert Interval
@@ -24,7 +24,7 @@ Toggle Box - ctrl + shft + enter
 * [ ] 15. Clone Graph
 * [ ] 16. Word Break
 * [ ] 17. Word Break II
-* [ ] 18. LRU Cache
+* [X] ~~*18. LRU Cache*~~ [2022-03-14]
 * [ ] 19. Min Stack
 * [ ] 20. Find Peak Element
 * [ ] 21. Fraction to Recurring Decimal
