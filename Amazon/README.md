@@ -30,8 +30,8 @@ Toggle Box - ctrl + shft + enter
 * [ ] Best Time to Buy and Sell Stock (#121)
 * [ ] Word Ladder II (#126)
 * [ ] Word Ladder (#127)
-* [ ] LRU Cache (#146)
-* [ ] Min Stack (#155)
+* [X] ~~*LRU Cache (#146)*~~ [2022-03-22]
+* [X] ~~*Min Stack (#155)*~~ [2022-03-22]
 * [ ] Number of Islands (#200)
 * [ ] Course Schedule (#207)
 * [ ] Course Schedule II (#210)
