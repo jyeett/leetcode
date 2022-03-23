@@ -6,7 +6,7 @@ Create Box - ctrl + shft + c
 
 Toggle Box - ctrl + shft + enter
 
-* [ ] Two Sum (#1)
+* [X] ~~*Two Sum (#1)*~~ [2022-03-22]
 * [ ] Median of Two Sorted Arrays * (#4)
 * [ ] Longest Palindromic Substring (#5)
 * [ ] String to Integer (atoi) (#8)
